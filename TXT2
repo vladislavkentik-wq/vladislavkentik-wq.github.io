@@ -1,0 +1,3 @@
+Type: TXT
+Name: @
+Value: v=spf1 a mx include:_spf.elasticemail.com include:_spf.google.com ~all
